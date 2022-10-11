@@ -1,5 +1,5 @@
 import React from 'react'
-import {Icon24LogoVk} from "@vkontakte/icons";
+import {Icon32LogoVk} from '@vkontakte/icons';
 import {FaGithub} from "react-icons/fa";
 import {BsInstagram} from "react-icons/bs";
 
@@ -21,13 +21,13 @@ const Footer = () => {
       </ul>
       
       <div className="footer__socials">
-        <a href="https://vk.com/leprokuda" target="_blank"><Icon24LogoVk width={21.45} height={21.45}/></a>
-        <a href="https://github.com/leprokuda" target="_blank"><FaGithub/></a>
-        <a href="https://instagram.com/leprokuda" target="_blank"><BsInstagram/></a>
+        <a href="https://vk.com/leprokuda" target="_blank"><Icon32LogoVk/></a>
+        <a href="https://github.com/leprokuda" target="_blank"><FaGithub size={32}/></a>
+        <a href="https://instagram.com/leprokuda" target="_blank"><BsInstagram size={32}/></a>
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; leprokuda All rights reserved.</small>
+        <small>&copy; leprokuda <br/> All rights reserved.</small>
       </div>
     </footer>
   )
