@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MyReactLanding/static/css/main.8bdb2890.css",
-    "main.js": "/MyReactLanding/static/js/main.7bc0f680.js",
+    "main.css": "/MyReactLanding/static/css/main.fd442533.css",
+    "main.js": "/MyReactLanding/static/js/main.92b47c9d.js",
     "static/media/portfolio4.png": "/MyReactLanding/static/media/portfolio4.7102a2cf6ee419aa52ad.png",
     "static/media/portfolio2.png": "/MyReactLanding/static/media/portfolio2.9f524ba08313ff5ea532.png",
     "static/media/Resume.pdf": "/MyReactLanding/static/media/Resume.2200d2e0767b6761a6d6.pdf",
@@ -16,11 +16,11 @@
     "static/media/portfolio7.png": "/MyReactLanding/static/media/portfolio7.a7807f07c1c58e8d1025.png",
     "static/media/portfolio8.png": "/MyReactLanding/static/media/portfolio8.e46b22cd46dcbc67e586.png",
     "index.html": "/MyReactLanding/index.html",
-    "main.8bdb2890.css.map": "/MyReactLanding/static/css/main.8bdb2890.css.map",
-    "main.7bc0f680.js.map": "/MyReactLanding/static/js/main.7bc0f680.js.map"
+    "main.fd442533.css.map": "/MyReactLanding/static/css/main.fd442533.css.map",
+    "main.92b47c9d.js.map": "/MyReactLanding/static/js/main.92b47c9d.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bdb2890.css",
-    "static/js/main.7bc0f680.js"
+    "static/css/main.fd442533.css",
+    "static/js/main.92b47c9d.js"
   ]
 }
