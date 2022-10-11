@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MyReactLanding/static/css/main.8bdb2890.css",
+    "main.js": "/MyReactLanding/static/js/main.7bc0f680.js",
+    "static/media/portfolio4.png": "/MyReactLanding/static/media/portfolio4.7102a2cf6ee419aa52ad.png",
+    "static/media/portfolio2.png": "/MyReactLanding/static/media/portfolio2.9f524ba08313ff5ea532.png",
+    "static/media/Resume.pdf": "/MyReactLanding/static/media/Resume.2200d2e0767b6761a6d6.pdf",
+    "static/media/me.png": "/MyReactLanding/static/media/me.12a19cb075b5b79ca182.png",
+    "static/media/portfolio1.png": "/MyReactLanding/static/media/portfolio1.f779b84b79080f37670d.png",
+    "static/media/about__me.jpg": "/MyReactLanding/static/media/about__me.232586c7486ed700cc41.jpg",
+    "static/media/portfolio3.png": "/MyReactLanding/static/media/portfolio3.9aafc19cba6c3104fd9c.png",
+    "static/media/portfolio6.png": "/MyReactLanding/static/media/portfolio6.163262ded2b136142716.png",
+    "static/media/portfolio9.png": "/MyReactLanding/static/media/portfolio9.acb0114bc99b402d6911.png",
+    "static/media/avatar1.png": "/MyReactLanding/static/media/avatar1.2385118c9c21784af1d6.png",
+    "static/media/portfolio5.png": "/MyReactLanding/static/media/portfolio5.b3adb392015fc26e0e1e.png",
+    "static/media/portfolio7.png": "/MyReactLanding/static/media/portfolio7.a7807f07c1c58e8d1025.png",
+    "static/media/portfolio8.png": "/MyReactLanding/static/media/portfolio8.e46b22cd46dcbc67e586.png",
+    "index.html": "/MyReactLanding/index.html",
+    "main.8bdb2890.css.map": "/MyReactLanding/static/css/main.8bdb2890.css.map",
+    "main.7bc0f680.js.map": "/MyReactLanding/static/js/main.7bc0f680.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bdb2890.css",
+    "static/js/main.7bc0f680.js"
+  ]
+}
