@@ -38,7 +38,14 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto atque consequuntur ea maiores natus omnis pariatur quo ut voluptatibus. Distinctio incidunt numquam pariatur possimus provident? Cumque laboriosam natus officiis soluta?
+            I am 23 years old. <br/>
+            I have an education as an information security specialist.
+            Also took several courses on frontend software development and testing.
+            I know CRM systems well, both from the user's side and from the integrator's side. <br/>
+            Experience in development 8 months + <br/>
+            Now I am looking for a permanent job on a remote basis. <br/>
+            My dream: to become a sought-after fullstack developer <br/>
+            Write to me, I will be glad to cooperate with you, as well as to communicate and exchange experiences!
           </p>
 
           <a href="#contacts" className="btn btn-primary">Let's Talk</a>
