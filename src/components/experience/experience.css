@@ -40,6 +40,20 @@
   color: var(--color-primary);
 }
 
+.experience__progressbar {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+}
+
+.experience__bar {
+  text-align: center;
+}
+
+.experience__bar:nth-child(-n+2) {
+  margin: 0 0 35px 0;
+}
+
 /* ================== MEDIA QUERIES (MEDIUM DEVICES) =================== */
 
 @media screen and (max-width: 1024px) {

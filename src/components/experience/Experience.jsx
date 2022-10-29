@@ -1,8 +1,9 @@
 import React from 'react'
 import './experience.css'
 import {BsPatchCheckFill} from 'react-icons/bs'
+import ProgressBar from "../progressbar/Bar";
 
-const Experience = () => {
+const Experience = ({scrollY}) => {
   return (
     <section id='experience'>
       <h5>What Skills I Have</h5>
@@ -136,6 +137,42 @@ const Experience = () => {
                 <small className="text-light">Beginner</small>
               </div>
             </article>
+          </div>
+        </div>
+        <div className="experience__progressbar">
+          <div className="experience__bar">
+            <ProgressBar value={'40'} scrollY={scrollY}/>
+            <p>TypeScript</p>
+          </div>
+          <div className="experience__bar">
+            <ProgressBar value={'35'} scrollY={scrollY}/>
+            <p>React</p>
+          </div>
+          <div className="experience__bar">
+            <ProgressBar value={'25'} scrollY={scrollY}/>
+            <p>Vue</p>
+          </div>
+          <div className="experience__bar">
+            <ProgressBar value={'35'} scrollY={scrollY}/>
+            <p>Node.js</p>
+          </div>
+        </div>
+        <div className="experience__progressbar">
+          <div className="experience__bar">
+            <ProgressBar value={'90'} scrollY={scrollY}/>
+            <p>HTML</p>
+          </div>
+          <div className="experience__bar">
+            <ProgressBar value={'90'} scrollY={scrollY}/>
+            <p>CSS</p>
+          </div>
+          <div className="experience__bar">
+            <ProgressBar value={'75'} scrollY={scrollY}/>
+            <p>JavaScript</p>
+          </div>
+          <div className="experience__bar">
+            <ProgressBar value={'35'} scrollY={scrollY}/>
+            <p>SQL</p>
           </div>
         </div>
       </div>
