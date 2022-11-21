@@ -141,15 +141,15 @@ const Experience = ({scrollY}) => {
         </div>
         <div className="experience__progressbar">
           <div className="experience__bar">
-            <ProgressBar value={'40'} scrollY={scrollY}/>
+            <ProgressBar value={'65'} scrollY={scrollY}/>
             <p>TypeScript</p>
           </div>
           <div className="experience__bar">
-            <ProgressBar value={'35'} scrollY={scrollY}/>
+            <ProgressBar value={'45'} scrollY={scrollY}/>
             <p>React</p>
           </div>
           <div className="experience__bar">
-            <ProgressBar value={'25'} scrollY={scrollY}/>
+            <ProgressBar value={'45'} scrollY={scrollY}/>
             <p>Vue</p>
           </div>
           <div className="experience__bar">
@@ -159,15 +159,15 @@ const Experience = ({scrollY}) => {
         </div>
         <div className="experience__progressbar">
           <div className="experience__bar">
-            <ProgressBar value={'90'} scrollY={scrollY}/>
+            <ProgressBar value={'95'} scrollY={scrollY}/>
             <p>HTML</p>
           </div>
           <div className="experience__bar">
-            <ProgressBar value={'90'} scrollY={scrollY}/>
+            <ProgressBar value={'95'} scrollY={scrollY}/>
             <p>CSS</p>
           </div>
           <div className="experience__bar">
-            <ProgressBar value={'75'} scrollY={scrollY}/>
+            <ProgressBar value={'85'} scrollY={scrollY}/>
             <p>JavaScript</p>
           </div>
           <div className="experience__bar">
